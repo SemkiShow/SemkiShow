@@ -1,5 +1,6 @@
 # SemkiShow
-I like coding.
+
+`std::cout << "I like coding.\n";`
 
 <!-- ![SemkiShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=semkishow&show_icons=true&theme=gruvbox) -->
 ### Languages and tools
