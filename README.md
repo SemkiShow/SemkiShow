@@ -1,6 +1,6 @@
 # SemkiShow
 
-```
+```cpp
 std::cout << "I like coding.\n";
 ```
 
